@@ -9,7 +9,7 @@
 
 #include <catch.hpp>
 
-/// Test cases that a class should pass in order to satisy the LessThanComparable or EqualityComparable concept
+/// Test cases that a class should pass in order to satisfy the LessThanComparable or EqualityComparable concept
 
 namespace cop {
 namespace test{
